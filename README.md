@@ -2,6 +2,18 @@
 
 A simple clone of Google Search, Google Image Search and Google Advanced Search made using HTML5 and CSS. <br>
 
+# Table of Contents
+1. [YouTube Video](#YouTubeVideo)
+2. [Getting started](#Gettingstarted)
+3. [The project specifications](#Theprojectspecifications)
+   1. [Pages](**Pages**)
+   2. [Query text](**Querytext**)
+   3. [Query images](**Queryimages**)
+   4. [Query Advanced](**QueryAdvanced**)
+   5. [Appearance](**Appearance**)
+   6. [Lucky](**Lucky**)
+   7. [Aesthetics](**Aesthetics**)
+
 # YouTube Video
 A short video wher i go through the required pecifications of the project: 
 
@@ -10,7 +22,7 @@ If you would like to have a look at the resul, download or fork the source files
 
 # The project specifications
 Your website must meet the following requirements.
-- **Pages.** You website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search. 
+- **Pages**. You website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search. 
      - On the Google Search page, there should be links in the upper-right of the page to go to Image Search or Advanced Search. On each of the other two pages, there should be a link in the upper-right to go back to Google Search. 
 - **Query text**. On the Google Search page, the user should be able to type in a query, click "google Search", and be taken to the Google search results for that page.
      - Like Google's own, your search bar should be centred with rounded corners. The search button should also be centred, and should be beneath the search bar. 
