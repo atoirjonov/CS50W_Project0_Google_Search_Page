@@ -5,6 +5,9 @@ A simple clone of Google Search, Google Image Search and Google Advanced Search 
 # YouTube Video
 A short video wher i go through the required pecifications of the project: 
 
+#Getting started
+If you would like to have a look at the resul, download or fork the source files and open the html file using your web browser. 
+
 # The project specifications
 Your website must meet the following requirements.
 - **Pages.** You website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search. 
