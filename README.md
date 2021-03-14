@@ -2,18 +2,6 @@
 
 A simple clone of Google Search, Google Image Search and Google Advanced Search made using HTML5 and CSS. <br>
 
-# Table of Contents
-1. [YouTube Video](#YouTubeVideo)
-2. [Getting started](#Gettingstarted)
-3. [The project specifications](#Theprojectspecifications)
-   1. [Pages](**Pages**)
-   2. [Query text](**Querytext**)
-   3. [Query images](**Queryimages**)
-   4. [Query Advanced](**QueryAdvanced**)
-   5. [Appearance](**Appearance**)
-   6. [Lucky](**Lucky**)
-   7. [Aesthetics](**Aesthetics**)
-
 # YouTube Video
 A short video wher i go through the required pecifications of the project: 
 
